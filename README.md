@@ -22,7 +22,6 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mLRgIY61JVG-J3wEKnNqRPxKJ22T8XxK/view?usp=sharing]
 - ⚡ Fun fact: **I love solving real-world problems with code**  
 
-- 
 
 ---
 
